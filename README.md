@@ -1,2 +1,9 @@
-# reactjs-tic-tac-toe
+# Setup
+
+```
+npx create-react-app my-app
+```
+
+# References
+
 https://reactjs.org/tutorial/tutorial.html
